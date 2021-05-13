@@ -1,6 +1,8 @@
 ## BTS 챗봇 예제
 
 안녕하세요, BTS 챗봇을 간단히 만들어보는 실습입니다.
+![deer_PNG10186](https://user-images.githubusercontent.com/73619839/118125222-a9cb4400-b431-11eb-8c03-bd9da718b790.png)
+
 
 ### Markdown
 
